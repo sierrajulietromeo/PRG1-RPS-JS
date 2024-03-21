@@ -2,13 +2,13 @@
   "name": "prg1-rps-js",
   "version": "1.0.0",
   "description": "Create a single function (the skeleton has been provided for you). The function must be capable of 'playing' a single round of the classic game 'Rock, Paper, Scissors':",
-  "main": "index.js",
+  "main": "rps.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "jest": "^29.7.0"
   }
