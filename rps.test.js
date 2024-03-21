@@ -1,6 +1,6 @@
 const { rockPaperScissors } = require('./rps.js');
 
-// how to run the tests
+// Run the tests by typing npm test in the terminal below
 
 
 describe('rockPaperScissors function', () => {
