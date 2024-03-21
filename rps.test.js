@@ -3,7 +3,7 @@ const { rockPaperScissors } = require('./rps.js');
 // Run the tests by typing npm test in the terminal below
 
 
-describe('rockPaperScissors function', () => {
+describe('rockPaperScissors function tests', () => {
     test('test_1_draw', () => {
         expect(rockPaperScissors('paper', 'paper')).toBe('draw');
         expect(rockPaperScissors('rock', 'rock')).toBe('draw');
