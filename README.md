@@ -6,7 +6,7 @@ Create a single function (the skeleton has been provided for you). The function 
 
 When called, the function should return the winning player reference (i.e., 'player1' or 'player2' or 'draw') as a single string.
 
-Evidence of testing is expected. You should test your solution by making sufficient calls to your function so that you are positive that it works as expected. These should be left at the bottom of ```rps.js``` commented out.
+You should test your solution yourself by making your own sufficient calls to your function so that you are positive that it works as expected, regardless of the included tests.
 
 Your final version should demonstrate evidence of being refactored; please note, refactoring is not bug-fixing - essentially it is reducing complexity and simplifying your codebase such that it is as efficient, readable, structured and as manageable as possible.
 
@@ -32,4 +32,4 @@ Prior to actually submitting your final attempt you should ensure you have revie
 
 1. Refactored ```rock_paper_scissors``` function.
 2. Does your solution follow accepted coding conventions?
-3. Your 'test' code, commented out at the bottom of ```rps.js```
+
