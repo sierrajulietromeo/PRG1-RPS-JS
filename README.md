@@ -20,9 +20,18 @@ rock_paper_scissors("paper", "scissors")  # should return "player2"
 
 ## Additional criteria.
 
-Once you have the basic version working, extend your function so that it supports Sheldon Cooper's 'Big Bang' version 'Rock, Paper, Scissors, Lizard, Spock'. Remember to write the tests!
+Once you have the basic version working, extend your function so that it supports Sheldon Cooper's 'Big Bang' version 'Rock, Paper, Scissors, Lizard, Spock'. Remember to carry out your own tests by calling the function. Here are the rules:
 
-![Picture of Big Bang Rules](images/bigbang.png)
+* Rock beats Scissors.
+* Paper beats Rock.
+* Scissors beats Paper.
+* Lizard beats (poisons) Spock.
+* Spock beats (smashes) Scissors.
+* Rock beats (crushes) Lizard.
+* Paper beats (disproves) Spock.
+* Scissors beats (decapitates) Lizard.
+* Lizard beats (eats) Paper.
+* Spock beats (vaporizes) Rock.
   
   
 ## Submission Checklist
