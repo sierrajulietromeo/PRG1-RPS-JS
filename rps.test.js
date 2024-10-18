@@ -27,18 +27,7 @@ describe('rockPaperScissors function tests', () => {
         expect(rockPaperScissors('spock', 'spock')).toBe('draw');
         
     });
-
-    test('test_5_RPSLS_player1wins', () => {
-        expect(rockPaperScissors('rock', 'lizard')).toBe('player1');
-        expect(rockPaperScissors('scissors', 'lizard')).toBe('player1');
-        expect(rockPaperScissors('lizard', 'paper')).toBe('player1');
-        expect(rockPaperScissors('spock', 'rock')).toBe('player1');
-        expect(rockPaperScissors('spock', 'scissors')).toBe('player1');
-        expect(rockPaperScissors('lizard', 'spock')).toBe('player1');
-        expect(rockPaperScissors('paper', 'spock')).toBe('player1');
-
-    });
-        
+       
     test('test_5_RPSLS_player1wins', () => {
         expect(rockPaperScissors('rock', 'lizard')).toBe('player1');
         expect(rockPaperScissors('scissors', 'lizard')).toBe('player1');
