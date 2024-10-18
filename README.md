@@ -12,10 +12,10 @@ Your final version should demonstrate evidence of being refactored; please note,
 
 Some example calls to the function:
 
-```python
-rock_paper_scissors("paper", "paper")    # should return "draw"
-rock_paper_scissors("scissors", "paper")  # should return "player1"
-rock_paper_scissors("paper", "scissors")  # should return "player2"
+```js
+rockPaperScissors("paper", "paper")    # should return "draw"
+rockPaperScissors("scissors", "paper")  # should return "player1"
+rockPaperScissors("paper", "scissors")  # should return "player2"
 ```
 
 ## Additional criteria.
@@ -39,6 +39,6 @@ Once you have the basic version working, extend your function so that it support
 Prior to actually submitting your final attempt you should ensure you have reviewed and considered the following checklist.
 
 
-1. Refactored ```rock_paper_scissors``` function.
+1. Refactored ```rockPaperScissors``` function.
 2. Does your solution follow accepted coding conventions?
 
