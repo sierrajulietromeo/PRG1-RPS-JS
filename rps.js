@@ -1,7 +1,5 @@
-function rockPaperScissors(player1, player2) {
+function rockPaperScissors(playerOneChoice, playerTwoChoice) {
 
-  
-   
 }
 
 
