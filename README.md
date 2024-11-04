@@ -13,9 +13,9 @@ Your final version should demonstrate evidence of being refactored; please note,
 Some example calls to the function:
 
 ```js
-rockPaperScissors("paper", "paper")    # should return "draw"
-rockPaperScissors("scissors", "paper")  # should return "player1"
-rockPaperScissors("paper", "scissors")  # should return "player2"
+rockPaperScissors("paper", "paper");      // return "draw"
+rockPaperScissors("scissors", "paper");   // return "player1"
+rockPaperScissors("paper", "scissors");   // return "player2"
 ```
 
 ## Additional criteria.
